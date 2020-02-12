@@ -11,3 +11,6 @@ second : I will find another book and forum to improve my ability.
 third : I will do some tools from prolog.
 
 come on.
+
+
+OK.  I failed.
